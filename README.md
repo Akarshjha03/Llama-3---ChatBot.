@@ -4,7 +4,7 @@
   <tr>
     <td style="border: none;">
       
-<img src="https://github.com/user-attachments/assets/ab0e7268-43ec-40e7-9d64-9f065f66ab2f" style="height: 225px; width: 1000px;" alt="Description of the image">
+<img src="https://github.com/user-attachments/assets/ab0e7268-43ec-40e7-9d64-9f065f66ab2f" style="height: 175px; width: 1000px;" alt="Description of the image">
       
 </td>
     <td style="border: none;">
