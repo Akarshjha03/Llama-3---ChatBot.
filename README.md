@@ -29,3 +29,40 @@ After installing Ollama, use the following command to download the Llama 3 model
 ```bash  
 ollama pull llama-3  
 ```
+
+### 3️⃣ Test the Model Locally
+Verify the installation by running a test query:
+```bash
+ollama query "Hello, world!"  
+```
+
+### 4️⃣ Install Required Python Libraries
+Install the LangChain library for chaining prompts and interactions:
+```bash
+pip install langchain  
+```
+
+### 5️⃣ Create the Python Script 🖥️
+Here’s a basic script to set up your chatbot
+
+### 6️⃣ Run Your Chatbot 🎉
+Execute the script to start chatting with your local AI chatbot:
+```bash
+python chatbot.py  
+```
+## 🛡️ Privacy
+Your chatbot runs locally, ensuring that your data stays secure. 🛡️
+
+## 🏗️ Future Enhancements
+Add more advanced memory handling.
+Integrate with external APIs for expanded functionality.
+Create a GUI interface for better user experience.
+
+## 🤝 Contributing
+Feel free to submit issues or pull requests to improve this project!
+
+## 📜 License
+This project is open-source under the MIT License.
+
+Happy coding! 🚀
+
