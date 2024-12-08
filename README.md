@@ -1,4 +1,4 @@
-# 🤖 Local AI Chatbot with Llama 3.1 Model  
+# 🤖 Local AI Chatbot with Llama 3.1 Model LLM
 
 <table style="border-collapse: collapse;">
   <tr>
