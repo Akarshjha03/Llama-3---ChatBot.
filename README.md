@@ -66,6 +66,8 @@ python chatbot.py
 ## 🛡️ Privacy
 Your chatbot runs locally, ensuring that your data stays secure. 🛡️
 
+# > **Note:** Find the actual source files in the **Releases** section of this repository.
+
 ## 🏗️ Future Enhancements
 Add more advanced memory handling.
 Integrate with external APIs for expanded functionality.
